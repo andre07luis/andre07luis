@@ -3,7 +3,7 @@
 ![André GitHub Stats 01](https://github-readme-stats.vercel.app/api?username=andre07luis&theme=algolia)
 ![André GitHub Stats 02](https://github-readme-stats.vercel.app/api/top-langs/?username=andre07luis&theme=algolia)
 #
-Meus contatos:<br>
+### Meus contatos:<br>
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.luis2209@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andre07luis)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andre07luis)
