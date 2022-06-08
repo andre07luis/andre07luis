@@ -9,13 +9,13 @@
 #
 ### Meus contatos:
 <div>
-    <a href="mailto:andre.luis2209@gmail.com" target="_blank">
+    <a href="mailto:andre.luis2209@gmail.com" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://instagram.com/andre07luis" target="_blank">
+    <a href="https://instagram.com/andre07luis" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://twitter.com/andre07luis" target="_blank">
+    <a href="https://twitter.com/andre07luis" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://steamcommunity.com/profiles/76561198081131541/" target="_blank">
+    <a href="https://steamcommunity.com/profiles/76561198081131541/" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 
